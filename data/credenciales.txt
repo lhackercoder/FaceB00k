@@ -1,0 +1,40 @@
+[2025-09-13T18:28:20.593Z] IP: ::1 - User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Correo/Tel: maldita@gmail.com
+Contraseña: 321312321321
+----------------------------------------
+
+[2025-09-13T18:37:05.694Z] IP: ::1 - User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Correo/Tel: pruebadephi@gmail.com
+Contraseña: putoelquelolea
+----------------------------------------
+
+[2025-09-13T18:37:34.317Z] IP: ::1 - User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Correo/Tel: prueba@hotmail.com
+Contraseña: perraelquelolea
+----------------------------------------
+
+[2025-09-13T19:08:24.301Z] IP: ::1 - User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Correo/Tel: loca@gmail.com
+Contraseña: 3213213
+----------------------------------------
+
+[2025-09-13T19:16:30.428Z] IP: ::1 - User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Correo/Tel: loca@gmail.com
+Contraseña: 232132132
+----------------------------------------
+
+[2025-09-13T19:55:11.980Z] IP: ::1 - User Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+Correo/Tel: donihok449@inupup.com
+Contraseña: pipe12
+----------------------------------------
+
+[2025-09-15T14:35:58.204Z] IP: ::1 - User Agent: Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.160 Mobile Safari/537.36
+Correo/Tel: Loco@gamil.com
+Contraseña: 123455
+----------------------------------------
+
+[2025-09-15T14:35:59.534Z] IP: ::1 - User Agent: Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
+Correo/Tel: eljefeesmarica@legustapicha.cpm
+Contraseña: maricaelquelolea.com
+----------------------------------------
+
